@@ -141,7 +141,7 @@ p {
   background-color: #000000;
 }
 
-/*when screen is at least 500px wide, the body has a background image, but under 500px, it remains white.*/
+/*when screen is at least 500px wide, the body has a background image, but under 500px, it remains white.
 
 @media (max-width: 500px) {
   #main-container {
@@ -153,3 +153,5 @@ p {
     background-color: #fff;
   }
 }
+
+In progress*/
